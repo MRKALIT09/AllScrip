@@ -1,0 +1,90 @@
+#!bin/bash
+clear
+sleep 1
+toilet -f standard -F gay "MR"
+toilet -f standard -F gay "KALIT09"
+echo
+sleep 1
+echo  "✰▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁✰"
+sleep 1
+echo  "AUTHOR SCRIP : MR • KALIT09"
+echo  "✰▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁✰"
+echo  "GITHUB:https://github.com/MRKALIT09"
+echo  "✰▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁✰"
+sleep 1
+echo  "MY TEAM : ANONYMOUS ALL INDONESIA"
+echo  "✰▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁✰"
+sleep 1
+echo  "WHATSAP ME :0852-7780-4293"
+sleep 2
+echo "✰▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁✰"
+echo  "Thnx Buat My Fri3nd "
+echo  " MRS • ANISA"
+echo  "MR.SADBOY MR. GEMBOR"
+echo  "✰▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁✰"
+
+sleep 2
+echo
+echo "✰▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁✰"
+echo "   ✰PILIH MENU TOOLS✰"
+echo "1.✰CRACK FB (LOG TOKEN)✰"
+echo "2.✰Scrip Bok3p✰"
+echo "3.✰Spam-Sms✰"
+echo "4.✰Crack (No Login)"
+echo "0.✰EXIT TOOLS✰"
+echo "✰▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁✰"
+echo
+read -p "[ Masukan Pilihan ]=> " pill
+#batas gan
+if [ $pill = "1" ]
+then
+sleep 2
+echo "Orang Sabar Di Sayang Janda"
+git clone https://github.com/MRKALIT09/MandoCrack12
+cd MandoCrack12
+python2 luangan.py
+sleep 1
+echo "GOD BYE TOD "
+fi
+#batas gan
+if [ $pill = "2" ]
+then
+sleep 2
+echo "Ga Sabar Ya Nonton Nya"
+git clone https://github.com/MRKALIT09/colikiawan
+cd colikiawan
+sh Tobat.sh
+sleep 2
+echo "Gih Sono Coli"
+fi
+#batas gan
+if [ $pill = "3" ]
+then
+sleep 2
+echo "Sedang menyiapkan Scrip"
+git clone https://github.com/MRKALIT09/tukang-ganggu
+cd tukang-ganggu
+python2 Spam.py
+sleep 2
+echo "Sana Main Sama Bocil Epep"
+fi
+#batas gan
+if [ $pill = "4" ]
+then
+sleep 2
+echo "SABAR YA NYET LAGI LOADING.."
+git clone https://github.com/MRKALIT09/crackmassal
+cd crackmassal
+python2 Banjir.py
+fi
+#batas gan
+if [ $pill = "0" ]
+then
+sleep 1
+echo "Dah Siap Ngeheck Nya?"
+sleep 2
+echo "Kalau Udah Good Bye Tod"
+sleep 3
+echo "Jangan Lupa Coli Ya><"
+exit
+fi
